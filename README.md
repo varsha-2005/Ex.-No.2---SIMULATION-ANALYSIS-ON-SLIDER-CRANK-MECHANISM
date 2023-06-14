@@ -45,8 +45,10 @@
 
 ## Output
 
-![image](https://github.com/varsha-2005/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/119288183/546b4c1d-28f3-461b-9e61-7fcbd7ba24c0)
+![245544160-959e2a0c-27ea-4ee3-b956-94a132d77b0a](https://github.com/MavillaPranathi/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118343610/1f26048d-2b69-4e7c-9d4d-4ae9285d1b60)
 
+
+![image](https://github.com/MavillaPranathi/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118343610/3b8ef114-b623-4bbf-b95d-8b6b973e64ca)
 
 ### Name: Varsha.G
 ### Register Number: 212222230166
